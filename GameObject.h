@@ -3,7 +3,6 @@ using namespace std;
 
 class Character {
 public:
-	string name;
 };
 
 class PC : public Character {
