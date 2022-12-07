@@ -21,10 +21,6 @@ int main(){
 		displayGameBoard();
 		cin >> direction;
 		movePC();
-
-		//hello
-		//Hello
-		//hello
 	}
 	
 }
